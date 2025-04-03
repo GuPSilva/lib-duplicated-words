@@ -1,6 +1,6 @@
 # Word duplicated
 
-Uma biblioteca simples que lê um arquivo `.txt` e mostra as palavras duplicadas no texto.
+Uma biblioteca simples criada durante os meus estudos e praticas. Ela lê um arquivo `.txt` e mostra as palavras duplicadas no texto.
 
 ## Instalação
 
